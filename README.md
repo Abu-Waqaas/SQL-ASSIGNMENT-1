@@ -11,6 +11,8 @@ Ans.
 ![Screenshot (135)](https://github.com/Abu-Waqaas/SQL-ASSIGNMENT-1/assets/106377378/fd1e5950-0b69-45d5-beca-c08b25a7fe42)
 
 Q2. 
+
+
 ![Screenshot (136)](https://github.com/Abu-Waqaas/SQL-ASSIGNMENT-1/assets/106377378/9eee3d80-be66-4c9a-a606-6ec5de67330a)
 
 ANS. 
